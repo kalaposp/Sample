@@ -1,0 +1,4 @@
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+hellóka
+sziasztok
